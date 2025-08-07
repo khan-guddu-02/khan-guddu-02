@@ -23,7 +23,9 @@ I enjoy building dynamic, user-focused web applications and have a solid foundat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gareeb-nawaz-0ba2532a6)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/khan-guddu-02)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:gareebnawazofficial@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:your.email@example.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white)](https://www.facebook.com/share/18XK5vdjdb/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/khan_guddu_02?igsh=OGI2cWdrZmo3cXVj)
 
 ---
 
