@@ -3,35 +3,70 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 🌟 About Me:
 
-- 🎓 I'm a recent *B.Tech Computer Science* graduate from RGPV Bhopal (2025) with a CGPA of 8.16  
-- 👨‍💻 Currently building full-stack projects using *MongoDB, Express, React, Node.js*  
-- 🔭 I have completed a 3-month internship at *Main Flow Services Technology Pvt. Ltd.*  
-- 🌱 I’m currently learning *System Design* and *DevOps (Docker, CI/CD)*  
-- 💡 I love solving real-world problems through code  
-- 🎯 Goal: Contribute to open-source and get a full-time developer role  
-- 🏓 Fun fact: I enjoy playing Table Tennis in my free time!
+👋 Hello! I'm Gareeb Nawaz, a passionate MERN Stack Developer from India. 
+I enjoy building dynamic, user-focused web applications and have a solid foundation in JavaScript, React, and Node.js. I love turning ideas into real-world solutions and writing clean, scalable code.
 
----
+🌱 I'm continuously expanding my knowledge in DevOps and  Cloud Technologies.
+💻 Currently, I'm working on full-stack projects that involve MongoDB, Express, React, Node.js, and learning how to optimize performance and architecture.
 
-### 🛠 Tech Stack
+🎯 My long-term goal is to join a forward-thinking tech team where I can contribute, grow, and create impactful products.
 
-- 💻 Frontend: React.js, HTML, CSS, JavaScript, Bootstrap, EJS  
-- 🖥 Backend: Node.js, Express.js  
-- 🛢 Database: MongoDB, MySQL  
-- 📦 Tools: Git, GitHub, VS Code, Postman  
-- 🔗 Others: REST API, JWT, Mongoose, Axios, Nodemon
+🧠 When I’m not coding, I’m usually:
+- Exploring new tech trends 🚀  
+- Playing Table Tennis 🏓  
+- Contributing to open-source or polishing my portfolio 🌐
+- 
 
----
+## 🌐 Socials:
 
-### 🔗 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/gareeb-nawaz-0ba2532a6)
-- 📁 [My GitHub Projects](https://github.com/khan-guddu-02)
-- 📧 Email: gareebnawazofficial@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gareeb-nawaz-0ba2532a6)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/khan-guddu-02)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:gareebnawazofficial@gmail.com)
 
 ---
+
+## 💻 Tech Stack:
+
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000)
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
 
 ### 📌 Featured Projects
 
