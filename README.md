@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Gareeb Nawaz</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
-
----
 
 ## 🌟 About Me:
 
