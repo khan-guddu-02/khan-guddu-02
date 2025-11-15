@@ -55,6 +55,7 @@ Here are some of my favorite works:
 |---------|-------------|
 | 🎮 Simon Says Game | A fun JavaScript-based memory game |
 | 📝 Task Tracker | Manage your tasks using ReactJS |
+| 💱 Currency Converter | A React-based real-time currency conversion tool |
 | ➗ Calculator | A basic but clean calculator using React |
 | 🏠 StayBnB | A customized clone of Airbnb using MongoDB and Express.JS , Node.Js,  |
 | 💬 Chat System | CRUD operations with Node.js and MongoDB |
