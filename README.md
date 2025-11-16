@@ -13,7 +13,6 @@ I enjoy building dynamic, user-focused web applications and have a solid foundat
 - Exploring new tech trends 🚀  
 - Playing Table Tennis 🏓  
 - Contributing to open-source or polishing my portfolio 🌐
-- 
 
 ## 🌐 Socials:
 
