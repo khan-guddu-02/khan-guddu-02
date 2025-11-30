@@ -47,20 +47,22 @@ I enjoy building dynamic, user-focused web applications and have a solid foundat
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 
-## 📌 Featured Projects  
-Here are some of my favorite works:
+| Project                | Description                                                                                                         |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| 🎮 Simon Says Game     | A fun JavaScript-based memory game                                                                                  |
+| 📝 Task Tracker        | Manage daily tasks using ReactJS                                                                                    |
+| 💱 Currency Converter  | A React-based real-time currency conversion tool                                                                    |
+| ☀️ Weather Application | A React-based app to check current weather and forecast for any location                                            |
+| ➗ Calculator          | A clean and responsive calculator using React                                                                       |
+| 🏠 StayBnB             | A customized Airbnb clone built using MongoDB, Express.js, and Node.js                                              |
+| 💬 Chat System         | A simple messaging system with CRUD using Node.js and MongoDB                                                       |
+| 🔗 URL Shortener       | Create short, shareable links using Node.js and MongoDB                                                             |
+| 📝 Comment System      | Add, edit, and manage comments using Node.js and MongoDB                                                            |
+| 🌐 Mini LinkedIn Clone | A social platform with authentication, user profiles, and post sharing                                              |
+| 📰 Postify             | A fully functional blogging platform with authentication, CRUD posts, and image uploads powered by Appwrite + React |
 
-| Project | Description |
-|---------|-------------|
-| 🎮 Simon Says Game | A fun JavaScript-based memory game |
-| 📝 Task Tracker | Manage your tasks using ReactJS |
-| 💱 Currency Converter | A React-based real-time currency conversion tool |
-| ➗ Calculator | A basic but clean calculator using React |
-| 🏠 StayBnB | A customized clone of Airbnb using MongoDB and Express.JS , Node.Js,  |
-| 💬 Chat System | CRUD operations with Node.js and MongoDB |
-| 🔗 URL Shortener | Create short links from long URLs using Node.js and MongoDB |
-| 📝 Comment System | Add and manage comments with Node.js and MongoDB |
-| 🌐 Mini LinkedIn Clone | Build a mini social platform with user authentication and posts |
+
+
 
 
 ---
